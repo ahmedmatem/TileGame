@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tile Game</string>
+
+    <!-- messages -->
+    <string name="illegal_move">Illegal move.</string>
+
+
+</resources>
